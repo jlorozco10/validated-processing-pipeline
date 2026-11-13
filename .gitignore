@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Task instructions
+task.md
